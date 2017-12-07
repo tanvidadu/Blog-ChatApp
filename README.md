@@ -1,14 +1,3 @@
-# FriendlyChat
-
-This repository contains code for the FriendlyChat project in the [Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) Udacity course.
-
-## Overview
-
-FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
-
-## Setup
-
-Setup requires creating a Firebase project. See https://firebase.google.com/ for more information.
-
-## License
-See [LICENSE](LICENSE)
+#Blog-ChatApp
+This app is a simple implementation of complex messenger and blog apps. It allows people all over world to share their view in form of mass messages and blogs.
+This uses Google firebase api to implement authentication and realtime Database
